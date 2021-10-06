@@ -1,1 +1,1 @@
-
+scp -r /mnt/d/data ec2-user@ec2-18-118-216-211.us-east-2.compute.amazonaws.com:classicmodels
